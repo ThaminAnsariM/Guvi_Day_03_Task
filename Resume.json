@@ -1,0 +1,60 @@
+{
+    "basics": {
+      "name": "M.Thamin Ansari",
+      "email": "www.thameenansari456@gmail.com",
+      "phone": 9789845444,
+      "degree": "B.Tech",
+
+     "location": {
+        "address": "no 887 ponniamman kovil 6th street, melakottiyur",
+        "postalCode": 600127,
+        "city": "chengalpattu",
+        "countryCode": "IND",
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Thamin Ansari",
+          "url": "linkedin.com/in/thamin-ansari-aa1420232"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "HCL Tech",
+        "position": "Juniour develouper",
+        "startDate": "sep-06-2021",
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ananthavalli metric Hr sec school",
+        "area": "Bharath institution of science and trechnology",
+        "studyType": "full time",
+        "acadamic year":2016-2020
+        "gpa": "6.27",
+        "courses": "B.Tech Mechanical"
+         
+      }
+    ],
+    "skills": [
+      {
+        "name": "SQL",
+        "level": "Intermedieate",
+        "keywords": [
+          "Sql,unix schell screpting"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Thamil",
+        "fluency": "Intermedieate"
+      },
+      {
+        "language": "English",
+        "fluency": "Intermedieate"
+      }
+    ]
+   
+  }
